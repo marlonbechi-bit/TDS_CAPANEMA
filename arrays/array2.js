@@ -1,13 +1,16 @@
-const nomes = ["Marlon", "Joelson", "Gabriel", "Lucas", "Cristiano", "Guilherme", "Vitor"]; // array vaszio
+const nomes = []; // array vazio
 
 // Desafio: Inserir 7 nomes que existam na sala de aula no array
 
 
-console.log(nomes[0] = "Marlon");
-console.log(nomes[1] = "Joelson");
-console.log(nomes[2] = "Gabriel");
-console.log(nomes[3] = "Lucas");
-console.log(nomes[4] = "Cristiano");
-console.log(nomes[5] = "Guilherme");
-console.log(nomes[6] = "Vitor");
+nomes[0] = "Lucas";
+nomes[1] = "Gabriel";
+nomes[2] = "Joelson";
+nomes[3] = "Gabriel";
+nomes[4] = "Vitor";
+nomes[5] = "Rubens";
+nomes[6] = "Murilo";
+
+console.log(nomes);
+
 
